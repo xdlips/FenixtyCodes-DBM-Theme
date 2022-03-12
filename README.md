@@ -1,4 +1,4 @@
-# Fenixty Codes DBM v2.0 Özel Temalar
+# Fenixty Codes DBM v2.0 Özel Temalar [Animasyonlu]
 
 > **Discord Bot Maker v2.0** sürümüne uygun olarak tasarlanmıştır.
 
